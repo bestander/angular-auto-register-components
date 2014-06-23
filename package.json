@@ -1,0 +1,7 @@
+{
+    "private": "true",
+    "dependencies": {
+        "gulp": "^3.8.0",
+        "gulp-inject": "^0.4.1"
+    }
+}
