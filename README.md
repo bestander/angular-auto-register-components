@@ -3,6 +3,8 @@ angular-auto-register-components
 
 An example of a single module architecture for Angular application with automatic component registration
 
+Read the article with reasons why I created this: https://medium.com/@bestander_nz/38829fc57dec
+
 Original code taken from https://github.com/tastejs/todomvc/tree/gh-pages/labs/dependency-examples/angularjs_require
 
 
